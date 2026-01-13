@@ -39,7 +39,7 @@ public class AccountsApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(AccountsApplication.class, args);
-
+		System.out.println("ok");
 	}
 
 }
